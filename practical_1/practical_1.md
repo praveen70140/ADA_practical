@@ -1,7 +1,7 @@
 # Search Algorithms Experiment
 
 ---
-
+[github_repo](https://github.com/praveen70140/DSD_practical/tree/master)
 ## 1(a) Linear Search in C
 
 ### Pseudocode
